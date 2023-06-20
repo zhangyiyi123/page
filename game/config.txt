@@ -1,0 +1,5 @@
+Game_name:欢迎使用WebGAL！;
+Game_key:1816fdda6f5b489;
+Package_name:;
+Title_bgm:s_Title.mp3;
+Title_img:biejingdatu.jpg;

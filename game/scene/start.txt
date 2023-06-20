@@ -1,0 +1,13 @@
+; 初始场景，以及特效演示
+bgm:main.mp3;
+intro:一个38岁前媒体人的中产坠落;
+intro:欢迎来到他的世界;
+changeBg:微信图片_20230609133453.jpg -next;
+unlockCg: -name=良夜;
+changeFigure:none -right -next -id=陈涛;
+setAnimation:enter-from-right -target=fig-center -next;
+:做了个三重梦境，一次比一次年轻，直到年少。;
+醒来了三次，才回到如今。
+:从毕业生到记者再到外卖员，不同的人生选择有不同的人生境遇。回首过去，站在人生十字路口，面临不同的选择，又会如何抉择……;
+:;
+changeScene:毕业！.txt

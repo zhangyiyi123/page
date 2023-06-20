@@ -1,0 +1,18 @@
+unlockBgm:疗愈音乐空间 - 今夜有雨 [mqms].ogg;
+pixiPerform:snow;
+:遇到了外卖淡季，我的生活更加艰难;
+changeBg:å¾®ä¿¡å¾ç_20230613150723.jpg;
+一天，我的妈妈给我打来了电话，说我老大不小了，赶紧回家找份安稳的工作，结婚生子;
+pixiInit;
+changeBg:huochezhan.jpg;
+:第二天，我买了一张回家的火车票……;
+:不久，我遇到了心仪的另一半;
+changeBg:jiehun.jpg;
+changeFigure:nvren.png (1).png -right;
+changeFigure:éæ¶.png -left;
+:一起步入婚姻殿堂;
+changeFigure:;
+changeBg:å©ç¤¼.jpg;
+intro:娶妻生子，步入了人生的下一阶段;
+intro:结局：幸福圆满|(4/4);
+end;
